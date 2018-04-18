@@ -1,0 +1,203 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Volumes/InternalHD/wmalcolm/SourceCode/ruby/little-gods-api/spec/support/controller_spec_helper.rb": [
+        null,
+        1,
+        null,
+        1,
+        0,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Volumes/InternalHD/wmalcolm/SourceCode/ruby/little-gods-api/spec/support/request_spec_helper.rb": [
+        1,
+        1,
+        0,
+        null,
+        null
+      ],
+      "/Volumes/InternalHD/wmalcolm/SourceCode/ruby/little-gods-api/app/models/card_effect.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Volumes/InternalHD/wmalcolm/SourceCode/ruby/little-gods-api/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Volumes/InternalHD/wmalcolm/SourceCode/ruby/little-gods-api/spec/models/card_name_spec.rb": [
+        1,
+        null,
+        1,
+        2,
+        null
+      ],
+      "/Volumes/InternalHD/wmalcolm/SourceCode/ruby/little-gods-api/app/models/card_name.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Volumes/InternalHD/wmalcolm/SourceCode/ruby/little-gods-api/spec/models/card_race_spec.rb": [
+        1,
+        null,
+        1,
+        2,
+        null
+      ],
+      "/Volumes/InternalHD/wmalcolm/SourceCode/ruby/little-gods-api/app/models/card_race.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Volumes/InternalHD/wmalcolm/SourceCode/ruby/little-gods-api/spec/models/card_set_spec.rb": [
+        1,
+        null,
+        1,
+        2,
+        null
+      ],
+      "/Volumes/InternalHD/wmalcolm/SourceCode/ruby/little-gods-api/app/models/card_set.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Volumes/InternalHD/wmalcolm/SourceCode/ruby/little-gods-api/spec/models/card_spec.rb": [
+        1,
+        null,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        null
+      ],
+      "/Volumes/InternalHD/wmalcolm/SourceCode/ruby/little-gods-api/app/models/card.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null
+      ],
+      "/Volumes/InternalHD/wmalcolm/SourceCode/ruby/little-gods-api/spec/models/card_type_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        null
+      ],
+      "/Volumes/InternalHD/wmalcolm/SourceCode/ruby/little-gods-api/app/models/card_type.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Volumes/InternalHD/wmalcolm/SourceCode/ruby/little-gods-api/spec/models/deck_card_spec.rb": [
+        1,
+        null,
+        1,
+        2,
+        2,
+        2,
+        2,
+        null
+      ],
+      "/Volumes/InternalHD/wmalcolm/SourceCode/ruby/little-gods-api/app/models/deck_card.rb": [
+        1,
+        1,
+        1,
+        null
+      ],
+      "/Volumes/InternalHD/wmalcolm/SourceCode/ruby/little-gods-api/spec/models/deck_spec.rb": [
+        1,
+        null,
+        1,
+        2,
+        2,
+        2,
+        null
+      ],
+      "/Volumes/InternalHD/wmalcolm/SourceCode/ruby/little-gods-api/app/models/deck.rb": [
+        1,
+        1,
+        1,
+        null
+      ],
+      "/Volumes/InternalHD/wmalcolm/SourceCode/ruby/little-gods-api/spec/models/match_spec.rb": [
+        1,
+        null,
+        1,
+        2,
+        2,
+        2,
+        null
+      ],
+      "/Volumes/InternalHD/wmalcolm/SourceCode/ruby/little-gods-api/app/models/match.rb": [
+        1,
+        1,
+        1,
+        null
+      ],
+      "/Volumes/InternalHD/wmalcolm/SourceCode/ruby/little-gods-api/spec/models/user_datum_spec.rb": [
+        1,
+        null,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        null
+      ],
+      "/Volumes/InternalHD/wmalcolm/SourceCode/ruby/little-gods-api/app/models/user_datum.rb": [
+        1,
+        1,
+        1,
+        null
+      ],
+      "/Volumes/InternalHD/wmalcolm/SourceCode/ruby/little-gods-api/spec/models/user_spec.rb": [
+        1,
+        null,
+        1,
+        2,
+        2,
+        2,
+        null
+      ],
+      "/Volumes/InternalHD/wmalcolm/SourceCode/ruby/little-gods-api/app/models/user.rb": [
+        1,
+        1,
+        null
+      ]
+    },
+    "timestamp": 1524084887
+  }
+}
